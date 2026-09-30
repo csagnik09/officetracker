@@ -88,7 +88,3 @@ Any current version of Chrome, Edge, Firefox, or Safari, on desktop or mobile.
 - Data lives in one browser on one device. Use export and import to move it.
 - Tracks a single person per browser.
 - The target is one number applied to every month.
-
-## License
-
-Add the license of your choice, for example MIT.
